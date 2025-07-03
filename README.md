@@ -1,4 +1,4 @@
-Características:
+✅ Características:
 
 1.Interfaz de usuario simple y amigable.
 
@@ -18,7 +18,7 @@ proyecto.ipynb:
 
 Este archivo contendrá el código principal del juego, incluyendo la lógica del juego, la interacción con el usuario y la visualización de los resultados.
 
-Cómo Usar el Proyecto:
+✅ Cómo Usar el Proyecto:
 
 1.Clona el repositorio de GitHub a tu máquina local.
 
@@ -30,7 +30,7 @@ Cómo Usar el Proyecto:
 
 5.Contribuciones.
 
-Si deseas contribuir al proyecto, puedes:
+✅ Si deseas contribuir al proyecto, puedes:
 
 1.Informar de errores o problemas.
 
