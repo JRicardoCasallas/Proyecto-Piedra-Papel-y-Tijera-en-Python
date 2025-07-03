@@ -12,7 +12,7 @@
 
 6.Estructura del Código.
 
-El proyecto estará organizado de la siguiente manera:
+✅ El proyecto estará organizado de la siguiente manera:
 
 proyecto.ipynb: 
 
