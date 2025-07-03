@@ -32,6 +32,8 @@ Contribuciones.
 
 Si deseas contribuir al proyecto, puedes:
 
-Informar de errores o problemas
-Sugerir mejoras o nuevas características
+Informar de errores o problemas.
+
+Sugerir mejoras o nuevas características.
+
 Enviar solicitudes de extracción (pull requests) con tus cambios
