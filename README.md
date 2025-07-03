@@ -14,17 +14,24 @@ Características:
 
 El proyecto estará organizado de la siguiente manera:
 
-proyecto.ipynb: Este archivo contendrá el código principal del juego, incluyendo la lógica del juego, la interacción con el usuario y la visualización de los resultados.
+proyecto.ipynb: 
+
+Este archivo contendrá el código principal del juego, incluyendo la lógica del juego, la interacción con el usuario y la visualización de los resultados.
 
 Cómo Usar el Proyecto
 
 Clona el repositorio de GitHub a tu máquina local.
+
 Asegúrate de tener Python 3 instalado en tu sistema.
+
 Ejecuta el archivo proyecto.ipynb para iniciar el juego.
+
 Sigue las instrucciones en pantalla para jugar.
+
 Contribuciones.
 
 Si deseas contribuir al proyecto, puedes:
+
 Informar de errores o problemas
 Sugerir mejoras o nuevas características
 Enviar solicitudes de extracción (pull requests) con tus cambios
