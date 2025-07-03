@@ -18,22 +18,22 @@ proyecto.ipynb:
 
 Este archivo contendrá el código principal del juego, incluyendo la lógica del juego, la interacción con el usuario y la visualización de los resultados.
 
-Cómo Usar el Proyecto
+Cómo Usar el Proyecto:
 
-Clona el repositorio de GitHub a tu máquina local.
+1.Clona el repositorio de GitHub a tu máquina local.
 
-Asegúrate de tener Python 3 instalado en tu sistema.
+2.Asegúrate de tener Python 3 instalado en tu sistema.
 
-Ejecuta el archivo proyecto.ipynb para iniciar el juego.
+3.Ejecuta el archivo proyecto.ipynb para iniciar el juego.
 
-Sigue las instrucciones en pantalla para jugar.
+4.Sigue las instrucciones en pantalla para jugar.
 
-Contribuciones.
+5.Contribuciones.
 
 Si deseas contribuir al proyecto, puedes:
 
-Informar de errores o problemas.
+1.Informar de errores o problemas.
 
-Sugerir mejoras o nuevas características.
+2.Sugerir mejoras o nuevas características.
 
-Enviar solicitudes de extracción (pull requests) con tus cambios
+3.Enviar solicitudes de extracción (pull requests) con tus cambios.
